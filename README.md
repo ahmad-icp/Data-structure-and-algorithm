@@ -4,3 +4,14 @@ This repository contains practice code for learning and strengthening C and C++ 
 
 ## 📁 Folder Structure
 
+C_CPP_Practice/
+├── C/
+│ ├── variables.c
+│ ├── loops.c
+│ ├── functions.c
+│ └── pointers.c
+├── CPP/
+│ ├── basics.cpp
+│ ├── classes.cpp
+│ ├── inheritance.cpp
+│ └── templates.cpp
