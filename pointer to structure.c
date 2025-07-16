@@ -20,6 +20,7 @@ struct record {
     printf("Pointer to Employee Name: %s\n", r->name);
     printf("Pointer to Employee Salary: %.2f\n", r->salary);
     printf("Size of struct record: %zu bytes\n", sizeof(struct record));
+    
     return 0;
 }
 
