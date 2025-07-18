@@ -11,10 +11,11 @@ int main()
   { cin >> x;
     v.push_back(x);
   }
-  cout << "The elements in reverse order are: ";
-  for (int i = n - 1; i >= 0; i--)
+  cout << "elements: ";
+  for (int i = 0; i < n; i++)
     cout << v[i] << " ";
   return 0;
+}   
 
 
 
@@ -26,10 +27,6 @@ int main()
 
 
 
-
-
-
-}
 
 
 

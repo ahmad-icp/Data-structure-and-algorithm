@@ -1,5 +1,5 @@
 #include<stdio.h>
-
+#include<stdlib.h>
 factorial(int n)
 {
     if (n==0)
