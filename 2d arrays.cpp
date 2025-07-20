@@ -3,9 +3,13 @@ using namespace std;
 int main()
 {
 
-int matrix [4][4];
-int rows =4;
-int columns = 4;
+int a,b;
+cout << "Enter the number of rows and columns: ";
+cin >> a >> b;
+
+int matrix [a][b];
+int rows =a;
+int columns = b;
 
 
 cout << "Enter the elements of the matrix:" << endl;
