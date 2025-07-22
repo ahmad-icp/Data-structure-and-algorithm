@@ -31,7 +31,7 @@ arr.remove(3);
     arr.add(2,8);
     cout << "Array after adding 8 at index 2: ";
     for(int i = 0; i < 6; i++) {
-        cout << arr[i] << " ";
+        cout << arr[i] << " ";  
     }
     cout << endl;
    return 0;
