@@ -2,7 +2,7 @@
 int sumn(int n)
 { if (n==0)
 return 0;
-int sum=sumn(n-1) +n;
+int sum=sumn(n-1) + n;
 return sum;
 }
 int main()
