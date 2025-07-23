@@ -9,6 +9,6 @@ int main()
 { int n;
   printf("Enter a positive integer: ");
   scanf("%d", &n);
-  printf("Sum of first %d natural numbers is: %d\n", n, sumn(n));
+  printf("Sum of first %d upto natural numbers is: %d\n", n, sumn(n));
   return 0;
 }
