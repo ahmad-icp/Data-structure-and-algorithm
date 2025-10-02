@@ -34,6 +34,8 @@ int a,b;
             cout<<arr1[i][j]<<" ";
         }
         cout<<endl;
+
+    }
 int sumOfArrays[i][j]=arr[i][j]+arr1[i][j];
         cout<<sumOfArrays[i][j]<<" ";
-    }}
+}  
