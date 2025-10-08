@@ -1,0 +1,14 @@
+//Mustafa Ali Qureshi here, testing respositoru for collaborative study work of Data Structures
+#include <iostream>
+  using namespace std;
+int main()
+{
+  const int N = 2;
+  int array2[N][N] = {{1,3}{4,2}};
+  for (int i = 0; i<2; ++i)
+  {
+    cout << "multi dimentioanl array also called strings of strings\n values: " << array[i][i];
+  }
+  cout << endl;
+  return 0;
+}
